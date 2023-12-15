@@ -21,7 +21,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=63F148DB48EB8EE1
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Let's keep in touch:
-- LinkedIn: (www.linkedin.com/in/michaela-guardiario-23b5252a5)
+- [LinkedIn](https://www.linkedin.com/in/michaelaguardiario/)
 - Email: guardiariomichaela@gmail.com
 
 Feel free to connect and explore the world of technology together! 🚀
