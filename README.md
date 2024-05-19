@@ -14,6 +14,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=63F148DB48EB8EE1
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=50FEB633C607C3D72553384644594A950BFF703FE64E52998560F4DC423D6E82&fbclid=IwAR1q7a2ZM2po0pAzN17w-2vgkdE3gUrzbwHkelBGhzWcNUxZ9q61ezGI89w)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1DA594B4160014B52EC43EFD84812984DBD018ABD36B972E26F2FD6FA1906B82&fbclid=IwAR2LdG3u5xEKM4hIT3J2FzlKozEYSzaH3qCQd89ETsFjq2RAnZC2HaPSELU%20Submission%20comments%20Comments%20(0))
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5f79d24889b24b66932c40ff3799c525)
+- - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/195dc84f598941ea9ee4c1cb8b92be62)
 
 ## Skill Sets:
 - **Programming:** Java, Javascript
@@ -22,7 +23,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=63F148DB48EB8EE1
 
 ## Let's keep in touch:
 - [LinkedIn](https://www.linkedin.com/in/michaelaguardiario/)
-- Email: guardiariomichaela@gmail.com
+- [Email](mailto:guardiariomichaela@gmail.com)
 
 Feel free to connect and explore the world of technology together! 🚀
 
